@@ -1,2 +1,2 @@
-# hello-world
-just a repository
+# config-grabber
+Here you can get all public config grabber script :)
